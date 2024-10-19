@@ -1,0 +1,1606 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>PayPal
+    </title>
+    <link rel="shortcut icon" href="https://pp.images.harmony.epsilon.com/PayPal/favicon.ico" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="initial-scale=1.0" name="viewport" />
+    <meta http-equiv="X-UA-Compatible" />
+    <meta name="robots" content="no index" />
+    <meta name="color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
+    <base target="_blank">
+    <span style="display: none;">
+      <style type="text/css"> :root {
+  Color-scheme: light dark;
+  supported-color-schemes: light dark;
+  }
+</style>
+<style>@font-face {
+  font-family: "PayPal-Open-bold";
+  src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.otf") format("otf"),
+    url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff") format("woff"),
+    url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff2") format("woff2"),
+    url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Bold.ttf") format("truetype");
+  font-weight: normal !important;
+  font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Bold-italic";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-BoldItalic.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Italic";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Italic.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Light";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Light.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Light-Italic";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-LightItalic.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Medium";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Medium.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open-Medium-Italic";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-MediumItalic.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+  @font-face {
+    font-family: "PayPal-Open";
+    src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.otf") format("otf"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff") format("woff"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff2") format("woff2"),
+      url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Regular.ttf") format("truetype");
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+</style>
+<style type="text/css">@media only screen and (max-width: 480px) {
+  /*@-ms-viewport {
+  width: 320px;
+  }
+  @viewport {
+  width: 320px;
+  }*/
+  }
+  a:hover   {
+    text-decoration: underline !important;
+  }
+  div,
+  p,
+  a,
+  li,
+  td {
+    -webkit-text-size-adjust: none;
+  }
+  td {
+    text-decoration: none !important;
+  }
+  td {
+    border-bottom: none;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  .boxshadow {
+    box-shadow: 0 1px 4px 0 #eeeeee;
+    border: none !important;
+  }
+  @media only screen and (max-width: 480px) {
+    .border_none {
+      border: none !important;
+    }
+    .padtb25_35b {
+      padding: 25px 35px 25px 35px !important;
+    }
+    .padr35 {
+      padding-right: 35px !important;
+    }
+    .mobtoppad {
+      padding-top: 10px !important;
+    }
+    .view-online_ltr {
+      text-align: left !important;
+      padding-left: 10px !important;
+      padding-top: 0 !important;
+    }
+    .block_crop {
+      width: 100% !important;
+      height: 75px !important;
+      width: 100% !important;
+    }
+    .padside35,
+    .padnew2,
+    .padd_lr_35 {
+      padding: 0px 35px 0px 35px !important;
+    }
+    .coldropnewlogo {
+      display: block !important;
+      margin: 0 auto !important;
+      width: 100% !important;
+      max-width: 250px !important;
+    }
+    .table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .font16 {
+      font-size: 16px !important;
+    }
+    .font14 {
+      font-size: 14px !important;
+    }
+    .pad2035 {
+      padding: 20px 35px 20px 35px !important;
+    }
+    .centertext {
+      text-align: center !important;
+    }
+    .font_12 {
+      font-size: 12px !important;
+    }
+    .coldrop {
+      display: block !important;
+      float: left;
+      width: 100% !important;
+    }
+    .mob-hide {
+      display: none !important;
+    }
+    .block_headline_lheight {
+      line-height: 32px !important;
+    }
+    .pad2035nobot,
+    .pad2035_new1 {
+      padding: 20px 35px 0px 35px !important;
+    }
+    .block_headline_font,
+    .font32 {
+      font-size: 32px !important;
+    }
+    .block_headline_mobpad,
+    .padnew,
+    .pad35_top {
+      padding: 35px 35px 0px 35px !important;
+    }
+    .padbot20border {
+      padding-bottom: 20px !important;
+      border-bottom: solid 1px #dddddd !important;
+      text-align: center !important;
+    }
+    .img {
+      width: 100% !important;
+      height: auto !important;
+    }
+    .cobrand_header_pad {
+      padding: 22px 35px 20px 35px !important;
+    }
+    .padd_30 {
+      padding: 15px 12px 15px 0px !important;
+    }
+    .header-border {
+      width: 90% !important;
+      height: 1px !important;
+    }
+    .display-block,
+    .displayBlock {
+      width: 100% !important;
+      display: block !important;
+      margin-bottom: 4px;
+    }
+    .padbottom20,
+    .pad20nosidefollow {
+      padding: 0px 0px 20px 0px !important;
+    }
+    .sectwoup_mob_com_wid {
+      width: 250px !important;
+      max-width: 250px !important;
+    }
+    .mobilelogodwidth {
+      width: 128px !important;
+    }
+    .mobilelogodimen {
+      height: auto !important;
+      max-width: 128px !important;
+      width: 100% !important;
+    }
+    .pad_n {
+      padding: 38px 0px 18px 35px !important;
+    }
+    .padright35 {
+      padding: 10px 35px 10px 35px !important;
+    }
+    .widhth_320 {
+      width: 320px !important;
+      height: auto !important;
+    }
+    .noheight {
+      height: auto !important;
+    }
+    .cobrand_paypal_width {
+      width: 80px !important;
+      height: auto !important;
+    }
+    .cobrand_divider_height {
+      height: 17px !important;
+    }
+    .font10 {
+      font-size: 10px !important;
+    }
+    .cobrand_brand_width {
+      width: 55px !important;
+      height: auto !important;
+    }
+    .logo_garden_img {
+      width: 130px !important;
+    }
+    .cobrand_divider_width {
+      width: 15px !important;
+    }
+    .pad24top,
+    .c2up_headline {
+      padding-top: 24px !important;
+    }
+    .padtop24 {
+      padding: 24px 0px !important;
+    }
+    .nopad {
+      padding: 0px 0px 0px 0px !important;
+    }
+    .mob-showcell {
+      display: table-cell !important;
+    }
+    .table-sm {
+      width: 80% !important;
+    }
+    .padb15 {
+      padding: 0px 0px 15px 0px !important;
+    }
+    .font16mobile {
+      font-size: 16px !important;
+      line-height: 18px !important;
+    }
+    .padt15lr35 {
+      padding: 15px 35px 15px 35px !important;
+    }
+    .font18 {
+      font-size: 18px !important;
+    }
+    .mob-margin-auto {
+      margin: auto !important;
+    }
+    .sectwoup_mob_icn_wid {
+      width: 50px !important;
+      height: auto !important;
+    }
+    .pad2035follow {
+      padding: 0px 35px 20px 35px !important;
+    }
+    .pad2035follownoborder {
+      padding: 0px 35px 20px 35px !important;
+      border: none !important;
+    }
+    .table_border {
+      border-radius: 12px !important;
+    }
+    .sectwoup_mob_para {
+      font-weight: 400 !important;
+      font-size: 14px !important;
+    }
+    .c2up,
+    .scim {
+      padding: 35px 35px 39px 35px !important;
+    }
+    .c2up_copy {
+      padding-top: 12px !important;
+    }
+    .c2up_cta {
+      padding-top: 14px !important;
+    }
+    .sectwoup_mob_cta {
+      font-weight: 500 !important;
+      font-size: 14px !important;
+      letter-spacing: -0.02em !important;
+    }
+    .padtb20 {
+      padding: 10px 0px 20px 0px !important;
+    }
+    .bgwrapper1 {
+      width: 100% !important;
+      height: auto !important;
+      background-size: 100% 100% !important;
+    }
+    .padbot20 {
+      padding-bottom: 20px !important;
+    }
+    .sectwoup_mob_headline {
+      font-size: 18px !important;
+      color: #001435 !important;
+    }
+    .coldropheader {
+      display: table-header-group !important;
+      width: 100% !important;
+    }
+    .scim_image {
+      padding-top: 34px !important;
+    }
+    .padbot24,
+    .pad_b24 {
+      padding-bottom: 24px !important;
+    }
+    .font16mobbody {
+      font-size: 16px !important;
+      line-height: 24px !important;
+    }
+    .autoheight {
+      height: auto !important
+    }
+    .padb21 {
+      padding: 0 0px 25px 0 !important;
+    }
+    .padt21 {
+      padding: 25px 0px 0 0 !important;
+    }
+    .table-full {
+      width: 100% !important;
+      min-width: 100% !important;
+    }
+    .pad_25202530 {
+      padding: 25px 19px 25px 19px !important;
+    }
+    .img_27 {
+      width: 27px !important;
+      height: auto !important;
+    }
+    .block_copy_mobpad,
+    .pad35 {
+      padding: 35px 35px 35px 35px !important;
+    }
+    .logo_new {
+      padding: 17.5px 27.5px !important;
+    }
+    .secedit2 {
+      padding: 0px 35px 24px 35px !important;
+    }
+    .pad_b_37 {
+      padding-bottom: 37px !important;
+    }
+    .secondimgc_para_mob_font {
+      font-size: 16px !important;
+      line-height: 22px !important;
+    }
+    .padnewtb10 {
+      padding: 35px 35px 10px 35px !important;
+    }
+    .secedit1 {
+      padding: 35px 35px 24px 35px !important;
+    }
+    .logo_garden {
+      padding: 27.5px !important;
+    }
+    .logo_new2 {
+      padding: 0px 27.5px !important;
+    }
+    .pad2 {
+      padding: 25px 25px !important;
+    }
+    .pad1 {
+      padding: 0 10px !important;
+    }
+    .font38 {
+      font-size: 38px !important;
+      line-height: 110% !important;
+    }
+    .testimonial_img {
+      width: 45px !important;
+    }
+    .padtop12 {
+      padding: 12px 0px 0px 0px !important;
+    }
+    .moblogoheight {
+      height: auto !important;
+    }
+    .padt15b20 {
+      padding: 20px 0px 15px 0px !important;
+    }
+    .logowidth {
+      width: 100% !important;
+      max-width: 336px !important;
+      margin: 0 auto !important;
+    }
+    .width10 {
+      width: 10px !important;
+      height: 20px !important;
+    }
+    .bgwrapper {
+      width: 100% !important;
+      height: auto !important;
+      background-size: contain !important;
+    }
+    .testimonial_img_div {
+      width: 57px !important;
+      max-width: 57px !important;
+    }
+    .center_table {
+      margin: 0 auto !important;
+      align-content: center !important;
+    }
+    .pad35botside,
+    .pad35_bottom {
+      padding: 0px 35px 35px 35px !important;
+    }
+    .logo_garden_spacer {
+      width: 5px !important;
+    }
+    .testi_signature_height {
+      height: 45px !important;
+    }
+    .mobdivheight {
+      height: 10px !important;
+      line-height: 10px !important;
+    }
+    .full {
+      width: 100% !important;
+      border: none !important;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+    .width250 {
+      width: 100% !important;
+      max-width: 250px !important;
+      margin: 0 auto !important;
+    }
+    .testimonial_sign_font {
+      font-size: 16px !important;
+      line-height: 22px !important;
+    }
+    .pad3 {
+      padding: 16px 5px 0 5px !important;
+    }
+    .pad35topside {
+      padding: 35px 35px 30px 35px !important;
+    }
+    .testimonial_para_font {
+      font-size: 25px !important;
+      line-height: 27px !important;
+      letter-spacing: -0.015em !important;
+    }
+    .mob_align_left {
+      text-align: left !important;
+    }
+    .paddright12 {
+      padding-right: 12px !important;
+    }
+    .padlogo2 {
+      padding: 15px 15px !important;
+    }
+    .paddb_34 {
+      padding-bottom: 34px !important;
+    }
+    .pad8
+    {
+      padding: 8px !important;
+    }
+    .pad27
+    {
+      padding-bottom: 27px !important;
+    }
+  }
+</style>
+<style>
+  @media (prefers-color-scheme: dark) {
+    .darkmode_CTA {
+      background-color: #001435 !important;
+      color: #F3F3F6 !important;
+    }
+  }
+  @media (prefers-color-scheme: light) {
+    .darkmode_CTA {
+      background-color: #FFFFFF !important;
+    }
+  }
+</style>
+<style>@media (prefers-color-scheme: dark) {
+  .darkmode_bg_white {
+    background-color: #FEFEFE !important;
+  }
+  @media (prefers-color-scheme: light) {
+    .darkmode_bg_white {
+      background-color: #FFFFFF !important;
+    }
+  }
+</style>
+<style type="text/css">@media all and (max-width: 480px) {
+  .responsive-td {
+    width: 100% !important;
+    display: block !important;
+    padding: 0 !important;
+  }
+  .nopad_lr {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .nopad_topbot {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+  .nopad_top {
+    padding-top: 0px !important;
+  }
+  .nopad_bot {
+    padding-bottom: 0px !important;
+  }
+  .coldrop_ctg_grdn {
+    height: 41px !important;
+    display: block !important;
+    float: left;
+    width: 100% !important;
+  }
+  }
+  .responsive-td {
+    padding: 0 !important;
+  }
+</style>
+<style type="text/css">@media all and (max-width: 480px) {
+  .padtop20 {
+    padding-top: 20px !important;
+  }
+  .mobileonlyblock {
+    display: inline-block !important;
+  }
+  .font_line_16mobile {
+    font-size: 16px !important;
+    line-height: 16px !important;
+  }
+  .font_line_10mobile {
+    font-size: 10px !important;
+    line-height: 12px !important;
+  }
+  .cobrand_header_pad2 {
+    padding: 12px 35px 20px 35px !important;
+  }
+  .block_copy_font {
+    font-size: 16px !important;
+  }
+  }
+</style>
+<style type="text/css">@media only screen and (max-width: 480px) {
+  .pad20topside30 {
+    padding: 20px 0px 30px 0px !important;
+  }
+  .pad10follow {
+    padding: 0px 10px 10px 10px !important;
+  }
+  .coldropnoborder {
+    display: block !important;
+    float: left;
+    width: 100% !important;
+    min-width: 100% !important;
+    border: 0px solid #fff !important;
+  }
+  .coldrop50_left {
+    /*display: block !important;
+    float: left;*/
+    width: 50% !important;
+    border: 0px solid #fff !important;
+    border-radius: 10px 0px 0px 10px;
+    min-width: 50% !important;
+    vertical-align: middle;
+  }
+  .borderradiusleft {
+    border-radius: 10px 0px 0px 10px;
+  }
+  .comparison_border {
+    width: 50% !important;
+    min-width: 50% !important;
+    vertical-align: middle !important;
+    border-left: 0 !important;
+  }
+  .pad20 {
+    padding: 20px 20px 20px 20px !important;
+  }
+  .padd_l_35 {
+    padding-left: 35px !important;
+  }
+  }
+</style>
+<style>a,
+  u+#body a {
+    color: #1072EB;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+  }
+  .appleLinks a {
+    color: #0C0C0D;
+  }
+  .appleLinksHEADLINE a {
+    color: #2c2e2f;
+    text-decoration: none;
+  }
+  .appleLinksBODY a {
+    color: #6c7378;
+    text-decoration: none;
+  }
+  .appleLinksWHITE a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .appleLinksGRAY2 a {
+    color: #77787b;
+    text-decoration: none;
+  }
+  .appleLinksDKGRAY a {
+    color: #595959;
+    text-decoration: none;
+  }
+  .appleLinksBLUE a {
+    color: #0073ae;
+    text-decoration: none;
+  }
+  .divider {
+    color: #929496;
+  }
+</style>
+<style type="text/css">body.th_TH,
+  body.th_TH h1,
+  body.th_TH h2,
+  body.th_TH h3,
+  body.th_TH h4,
+  body.th_TH h5,
+  body.th_TH h6,
+  body.th_TH a,
+  body.th_TH p,
+  body.th_TH span,
+  body.th_TH div,
+  body.th_TH table td {
+    font-family: Tahoma, 'Unicode Arial MS', Helvetica, Arial, sans-serif !important;
+  }
+  body.zh_HK,
+  body.zh_HK h1,
+  body.zh_HK h2,
+  body.zh_HK h3,
+  body.zh_HK h4,
+  body.zh_HK h5,
+  body.zh_HK h6,
+  body.zh_HK a,
+  body.zh_HK p,
+  body.zh_HK span,
+  body.zh_HK div,
+  body.zh_HK table td {
+    font-family: 'Microsoft JhengHei', Helvetica, Arial, sans-serif !important;
+  }
+  body.zh_TW,
+  body.zh_TW h1,
+  body.zh_TW h2,
+  body.zh_TW h3,
+  body.zh_TW h4,
+  body.zh_TW h5,
+  body.zh_TW h6,
+  body.zh_TW a,
+  body.zh_TW p,
+  body.zh_TW span,
+  body.zh_TW div,
+  body.zh_TW table td {
+    font-family: 'Microsoft JhengHei', Helvetica, Arial, sans-serif !important;
+  }
+  body.ko_KR,
+  body.ko_KR h1,
+  body.ko_KR h2,
+  body.ko_KR h3,
+  body.ko_KR h4,
+  body.ko_KR h5,
+  body.ko_KR h6,
+  body.ko_KR a,
+  body.ko_KR p,
+  body.ko_KR span,
+  body.ko_KR div,
+  body.ko_KR table td {
+    font-family: '나눔바른고딕', Nanum Barun Gothic, Helvetica, Arial, sans-serif !important;
+    word-break: break-word;
+  }
+  body.ja_JP,
+  body.ja_JP h1,
+  body.ja_JP h2,
+  body.ja_JP h3,
+  body.ja_JP h4,
+  body.ja_JP h5,
+  body.ja_JP h6,
+  body.ja_JP a,
+  body.ja_JP p,
+  body.ja_JP span,
+  body.ja_JP div,
+  body.ja_JP table td {
+    font-family: 'メイリオ', Meiryo, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', Verdana, Arial, Helvetica, sans-serif !important;
+  }
+  body.intcomFont,
+  body.intcomFont a,
+  body.intcomFont p,
+  body.intcomFont span,
+  body.intcomFont div,
+  body.intcomFont h1,
+  body.intcomFont h2,
+  body.intcomFont h3,
+  body.intcomFont h4,
+  body.intcomFont h5,
+  body.intcomFont h6,
+  body.intcomFont table td {
+    font-family: 'Tahoma', Helvetica, Arial, sans-serif !important;
+  }
+</style>
+<!--[if gte mso 9
+]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><!
+[endif]-->
+<!--[if mso | ie]>
+<style>
+.sup {
+vertical-align: 1px !important;
+font-size: 100% !important;
+}
+</style>
+<![endif]-->
+<!--[if ie]>
+<style>
+.sup {
+vertical-align: 6px !important;
+font-size: 80% !important;
+}
+</style>
+<![endif]-->
+<!--[if mso]><style>span.hidetonline {display: block !important}</style> <![endif]-->
+<!--[if (mso)|(mso 16)]>
+<style type="text/css">
+a {text-decoration: none;}
+.boxshadow {box-shadow: none!important; border: 1px solid #eeeeee !important}
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style type="text/css">
+body.th_TH,
+body.th_TH h1,
+body.th_TH h2,
+body.th_TH h3,
+body.th_TH h4,
+body.th_TH h5,
+body.th_TH h6,
+body.th_TH a,
+body.th_TH p,
+body.th_TH span,
+body.th_TH div,
+body.th_TH table td
+{
+word-break: break-all;
+}
+body.zh_HK,
+body.zh_HK h1,
+body.zh_HK h2,
+body.zh_HK h3,
+body.zh_HK h4,
+body.zh_HK h5,
+body.zh_HK h6,
+body.zh_HK a,
+body.zh_HK p,
+body.zh_HK span,
+body.zh_HK div,
+body.zh_HK table td
+{
+word-break: break-word;
+}
+body.zh_TW,
+body.zh_TW h1,
+body.zh_TW h2,
+body.zh_TW h3,
+body.zh_TW h4,
+body.zh_TW h5,
+body.zh_TW h6,
+body.zh_TW a,
+body.zh_TW p,
+body.zh_TW span,
+body.zh_TW div,
+body.zh_TW table td
+{
+word-break: break-word;
+}
+body.ko_KR,
+body.ko_KR h1,
+body.ko_KR h2,
+body.ko_KR h3,
+body.ko_KR h4,
+body.ko_KR h5,
+body.ko_KR h6,
+body.ko_KR a,
+body.ko_KR p,
+body.ko_KR span,
+body.ko_KR div,
+body.ko_KR table td
+{
+word-break: break-word;
+}
+body.ja_JP,
+body.ja_JP h1,
+body.ja_JP h2,
+body.ja_JP h3,
+body.ja_JP h4,
+body.ja_JP h5,
+body.ja_JP h6,
+body.ja_JP a,
+body.ja_JP p,
+body.ja_JP span,
+body.ja_JP div,
+body.ja_JP table td
+{
+word-break: break-word;
+}
+</style>
+<![endif]-->
+      
+
+    </span>
+  </head>
+  <span style="display: none;">
+    <span style="display:none;">
+  
+</span>
+
+<span style="display:none;">
+  
+</span> 
+  </span>
+  <body style="margin: 0 auto; padding:0px;" bgcolor="#f2f2f2" id="body" >
+    <div style="font-size:0; line-height:0;">
+      <img src="https://click.emails.paypal.com/open.aspx?ffcb10-fec210747163037e-fe1f1d7273660d7e761179-fe3611727364047f721671-ffc912-fdfc1571746705787c117373-ff62107874&d=120028&bmt=0" width="1" height="1" alt="">
+      
+    </div>
+    <table            border="0"            cellpadding="0"            cellspacing="0"            width="100%"            align="center"            role="presentation"            >
+      <tr>
+        <td align="center" valign="middle" bgcolor="#f2f2f2">
+          <table                  border="0"                  cellpadding="0"                  cellspacing="0"                  width="640"                  align="center"                  class="table-full"                  role="presentation"                  style="min-width:320px; max-width:640px;"                  >
+            <tbody >
+              <tr>
+                <td>
+                  <!----><span style="color:black;">
+
+  </span><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><span style="color:black;"> </span></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="" width="100%">
+					
+						<tr>
+							<th align="center" class="coldrop" style="font-weight:normal;" valign="top" width="500">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									
+										<tr>
+											<td align="left" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666; padding: 10px 10px 10px 10px;" valign="top">
+												<b><span style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;">Uta Lemann</span> </b> <span style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;"> - sende Geld einfach, schnell und sicher mit PayPal.</span></td></tr></table></th><th align="center" class="coldrop" style="font-weight:normal;" valign="top" width="75">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									
+										<tr>
+											<td align="right" class="view-online_ltr" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666; white-space: nowrap; padding: 10px 10px 10px 0px;" valign="top">
+												<a  href="https://view.emails.paypal.com/?qs=37e985fa155e5489bf29975b12feec6f27b252ec99d5b191b818189009b438003772f61d6f5702c7228c3d7be527a0f3669a5d6aeb7e923657255c9b4b71f5e6a9ad53acb4fe7c1149bc4050c45b5140" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;text-decoration:underline;" target="_blank">Online ansehen</a></td></tr></table></th></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- P.HB — Left aligned PayPal header, color backgrounds start --><table align="left" border="0" cellpadding="0" cellspacing="0" class="darkmode_bg_white" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width: 320px;" width="100%">
+					
+						<tr>
+							<td align="left" class="pad_n" style="padding: 68px 0px 30px 55px; color: rgb(108, 115, 120);" valign="middle">
+								<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+									
+										<tr>
+											<td align="left" style="vertical-align: middle; color: rgb(108, 115, 120);" valign="middle">
+												<a  href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af515d8315e82870204e662292da45b687518b4cb8a9d615dd84bfd66d2fd69eae51dbc73f8eea3c896d11442654bf1af596f1b80f9f232141" style="text-decoration: none; color: rgb(108, 115, 120);" target="_blank"><img alt="PayPal" border="0" class="widhth_320" height="43" src="https://images.ctfassets.net/7rifqg28wcbd/391Cmw7fhRNH4rmnuuBjxT/a1609d5d5af4311ee0b4a21e86b8bd49/extra-wide-logo-header-white-2x.png" style="display:block; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:32px; color:#ffffff;" title="PayPal" width="530"></a></td></tr></table></td></tr></table></td></tr></table><!-- P.HB — Left aligned PayPal header, color backgrounds end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- P.HI.1 - Primary Hero module with flexible height Start --><table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					
+						<tr>
+							<td align="center" bgcolor="#FFFFFF" class="darkmode_bg_white" data-block="editable" data-name="supporting background color" data-type="color" style="" valign="middle">
+								<img alt="Mehr Möglichkeiten, um Geld zu senden und zu empfangen." border="0" class="img" data-assetid="37460" src="https://image.emails.paypal.com/lib/fe3611727364047f721671/m/1/407867-de_DE-F90_Day_35_Banner-640-EM.png" style="display: block; font-family: pp-sans-big-regular, Helvetica, Arial, sans-serif; font-size: 18px; color: #0C0C0D; padding: 0px; height: auto; width: 100%; text-align: center;" width="640"></td></tr></table></td></tr></table><!-- P.HI.1 - Primary Hero module with flexible height end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- T.50px — 50px Spacer Start --><table align="center" border="0" cellpadding="0" cellspacing="0" class="table darkmode_bg_white" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" style="padding:0px 0px 0px 0px;" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 640px;" width="100%">
+					
+						<tr>
+							<td align="center" valign="middle">
+								<img alt="" border="0" height="50" src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" style="display:block;" width="50"></td></tr></table></td></tr></table><!-- T.50px — 50px Spacer end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-bottom: 0px;"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" bgcolor="#FFFFFF" class="padnew2 darkmode_bg_white" style="padding: 0px 55px 0px 55px; background-color: #FFFFFF;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+					
+						<tr>
+							<td align="left" style="padding-bottom:24px;" valign="middle">
+								<p class="font32" style="margin: 0px; font-family: PayPal-Open-Medium, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 56px; line-height: 1.2; color: rgb(18, 22, 97);">
+									Mehr M&ouml;glichkeiten, um Geld zu senden und zu empfangen.</p></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" bgcolor="#FFFFFF" class="padnew2 darkmode_bg_white" style="padding: 0px 55px 0px 55px; background-color: #FFFFFF;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+					
+						<tr>
+							<td align="left" valign="middle">
+								<p class="font16" style="margin: 0px; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 20px; line-height: 1.5; color: rgb(0, 20, 53);">
+									Mit PayPal kannst du jederzeit und fast &uuml;berall schnell und sicher Geld senden und empfangen&sup1;, dich mit Freund:innen vernetzen, an Herzensprojekte spenden&sup2; oder f&uuml;r Dinge bezahlen, die du liebst.</p></td></tr></table></td></tr></table></td></tr></table><!----></td></tr></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-top: 0px;"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="left" bgcolor="#FFFFFF" class="padnew2 darkmode_bg_white" style="padding: 0px 55px 0px 55px; background-color: #FFFFFF;" valign="middle">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+     
+      <tr>
+       <td align="left" class="padtop24" style="padding: 34px 0 0 0;">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align: top;" width="100%">
+         
+          <tr>
+           <td align="left" class="font16" style="font-family: Helvetica,Tahoma,sans-serif; font-size: 18px; line-height:60px; mso-line-height-rule:exactly;  color:#003087;">
+            <div class="font16" style="text-align:left; line-height:60px; mso-line-height-rule:exactly;">
+             <!--[if mso]> <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.youtube.com/watch?v=VJFnnOPTMk8&list=PLzkWk4JUH8qHlpJqDLSxK9ctBnzxqJzrM&index=5&utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_TR_MC_NI_NI_202404_407867_Day_35_P2P&sfmc_id=Z6Z7TXZEVJWT4&utm_content=to_watch_video_CTA_link" fillcolor="#142C8E" stroke="f" style="width:187.5pt; height:37.5pt; v-text-anchor:middle;" arcsize="50%"> <w:anchorlock/> <center> <![endif]--><a  class="font16"  data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af5aea5056f12a98d7bd05930df87413c9dfcd6b6871878606381827372c9f2c1310c3d4c94e2362836c08f3980fbc4f34b77ab47021222892" style="color:#FFFFFF;text-decoration:none;display: inline-block; width: 250px; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 50px; text-align: center; background-color: rgb(20, 44, 142); border-radius: 50px; text-size-adjust: none;" target="_blank" title="Video ansehen">Video ansehen</a> <!--[if mso]> </center> </v:roundrect> <![endif]--></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="center" bgcolor="#FFFFFF" class="padbot20 darkmode_bg_white" style="padding: 0px 55px 40px 55px; background-color: #FFFFFF;" valign="middle">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+     
+      <tr>
+       <td>
+       </td></tr></table></td></tr></table><!-- P.H.1 - Primary / Hero White Background Color end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-bottom: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- S.SSIC — Secondary Small Image Copy start --><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_lr darkmode_bg_white" role="presentation" style="min-width: 100%; padding:25px 0px 0px 0px;" width="100%">
+ 
+  <tr>
+   <td>
+   </td></tr></table></td></tr></table><!----></td></tr></table></td></tr><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-top: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_top darkmode_bg_white" role="presentation" style="min-width: 100%; padding: 25px 55px 25px 55px;" width="100%">
+	
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+					
+						<tr>
+							<td>
+								<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+									
+										<tr>
+											<td class="responsive-td" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width: 250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding: 0px 0px 0px 0px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																					
+																						<tr>
+																							<td align="left" class="scim_image" valign="top">
+																								<img alt="Geld senden leicht gemacht." border="0" data-assetid="37458" height="340" src="https://image.emails.paypal.com/lib/fe3611727364047f721671/m/1/407867-de_DE-F90_Day_35_image_1-250-EM.png" style="display: block; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 12px; color: #0C0C0D; padding: 0px; height: 340px; width: 250px; text-align: center;" width="250"></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%;" width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding-left:10px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;" width="250">
+																					
+																						<tr>
+																							<td align="left" class="centertext" valign="top">
+																								<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:250px;" width="250">
+																									
+																										<tr>
+																											<td align="left" class="c2up_headline" style="padding:0px 0px 0px 0px;" valign="middle">
+																												<p class="font18" style="margin: 0px; font-family: 'PayPal-Open-Medium', Helvetica, Arial, sans-serif; font-size:32px; mso-line-height-rule:exactly; line-height: 120%; color:#001C64; text-align: left;font-weight:500;">
+																													Geld senden leicht gemacht.</p></td></tr><tr>
+																											<td align="left" class="c2up_copy" style="padding:20px 0px 0px 0px;" valign="middle">
+																												<p class="font16mobbody" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:28px; color:#001435; text-align: left;font-weight:400;">
+																													Ob von zu Hause oder von unterwegs &ndash; mit PayPal kannst du von fast &uuml;berall blitzschnell Geld senden.&sup1;</p></td></tr><tr>
+																											<td align="left" class="c2up_cta" style="padding-top:20px;" valign="middle">
+																												<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																													
+																														<tr>
+																															<td align="left" class="font16mobile" style="font-family:'PayPal-Open-bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:1.5; color:#0070E0; padding:0px 0px 0px 0px;font-weight: bold;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2aface7796501ad05c9f53400358c747a6dfee8834b2b9cba94d1041d47afc521f10f528e9359f774c7f3efaa0ecf293920282c4924a9c63a04" style="color:#0070E0;text-decoration:none;" target="_blank" title="Mehr erfahren">Mehr erfahren</a></td><td align="left" style="padding-left: 10px;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af55bfd205d926f9ac75e65fdfbb979090892e46fca28b17a9bc2c7ba1f07f0a6a6b4071bc21fb4d1fb029342b05675e893632e0abadc07551" title="Mehr erfahren"><img alt="&gt;" height="20" src="https://images.ctfassets.net/7rifqg28wcbd/4bhWkPVQy8nJuxthD8fVkd/bc4d9b47652848eb4ee6cf176f87138b/arrow.png" style="display: block; text-align: center; color: #0C0C0D; padding: 0px; height: 20px; width: 25px;" width="25"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="nopad" role="presentation" style="min-width: 100%; padding: 0px 0px 25px 0px;" width="100%">
+	
+		<tr>
+			<td>
+			</td></tr></table><!-- S.SSIC — Secondary Small Image Copy end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-bottom: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- S.SSIC — Secondary Small Image Copy start --><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_lr darkmode_bg_white" role="presentation" style="min-width: 100%; padding:25px 0px 0px 0px;" width="100%">
+ 
+  <tr>
+   <td>
+   </td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_top darkmode_bg_white" role="presentation" style="min-width: 100%; padding: 0px 55px 25px 55px" width="100%">
+	
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+					
+						<tr>
+							<td>
+								<table cellpadding="0" cellspacing="0" dir="rtl" role="presentation" style="width: 100%;">
+									
+										<tr>
+											<td class="responsive-td" dir="ltr" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding-left:10px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																					
+																						<tr>
+																							<td align="left" valign="top">
+																								<img alt="Zahlungen anfordern und empfangen." border="0" data-assetid="37456" height="340" src="https://image.emails.paypal.com/lib/fe3611727364047f721671/m/1/407867-de_DE-F90_Day_35_image_2-250-EM.png" style="display: block; text-align: center; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 12px; color: #0C0C0D; padding: 0px; height: 340px; width: 250px;" width="250"></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" dir="ltr" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;" width="250">
+																					
+																						<tr>
+																							<td align="left" class="centertext" valign="top">
+																								<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:250px;" width="250">
+																									
+																										<tr>
+																											<td align="left" class="c2up_headline" style="padding:0px 0px 0px 0px;" valign="middle">
+																												<p class="font18" style="margin: 0px; font-family: 'PayPal-Open-Medium', Helvetica, Arial, sans-serif; font-size:32px; mso-line-height-rule:exactly; line-height: 120%; color:#001C64; text-align: left; font-weight:500;">
+																													Zahlungen anfordern und empfangen.</p></td></tr><tr>
+																											<td align="left" class="c2up_copy" style="padding:20px 0px 0px 0px;" valign="middle">
+																												<p class="font16mobbody" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:28px; color:#001435; text-align: left;font-weight:400;">
+																													Wenn du mit PayPal Geld erh&auml;ltst, kannst du es sofort zum Shoppen verwenden, spenden, Rechnungen bezahlen, das Geld auf dein Bankkonto abbuchen und mehr.</p></td></tr><tr>
+																											<td align="left" class="c2up_cta" style="padding-top:20px;" valign="middle">
+																												<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																													
+																														<tr>
+																															<td align="left" class="font16mobile" style="font-family:'PayPal-Open-bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:1.5; color:#0070E0; padding:0px 0px 0px 0px;font-weight: bold;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afeab0b183580cd810f5f6b50f9e5230ea94819a75b6d73c710810263e17cbcb43f54dc06794a543513533f51e0ddd1a59d437178c1a5c1b54" style="color:#0070E0;text-decoration:none;" target="_blank" title="Mehr erfahren">Mehr erfahren</a></td><td align="left" style="padding-left: 10px;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afee8161ad538f8aa4872f0b6d7c4fa2ebce34e558020da4353a3271a4e012e35439a39075f77f5eb05ceae99857e26b5ed789044b447ac84b" title="Mehr erfahren"><img alt="&gt;" height="20" src="https://images.ctfassets.net/7rifqg28wcbd/4bhWkPVQy8nJuxthD8fVkd/bc4d9b47652848eb4ee6cf176f87138b/arrow.png" style="display: block; text-align: center; color: #0C0C0D; padding: 0px; height: 20px; width: 25px;" width="25"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----></td></tr></table></td></tr><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-top: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_top darkmode_bg_white" role="presentation" style="min-width: 100%; padding: 25px 55px 25px 55px;" width="100%">
+	
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+					
+						<tr>
+							<td>
+								<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+									
+										<tr>
+											<td class="responsive-td" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width: 250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding: 0px 0px 0px 0px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																					
+																						<tr>
+																							<td align="left" class="scim_image" valign="top">
+																								<img alt="Geld senden mit persönlichem Touch." border="0" data-assetid="37457" height="340" src="https://image.emails.paypal.com/lib/fe3611727364047f721671/m/1/407867-de_DE-F90_Day_35_image_3-250-EM.png" style="display: block; text-align: center; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 12px; color: #0C0C0D; padding: 0px; height: 340px; width: 250px;" width="250"></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%;" width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding-left:10px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;" width="250">
+																					
+																						<tr>
+																							<td align="left" class="centertext" valign="top">
+																								<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:250px;" width="250">
+																									
+																										<tr>
+																											<td align="left" class="c2up_headline" style="padding:0px 0px 0px 0px;" valign="middle">
+																												<p class="font18" style="margin: 0px; font-family: 'PayPal-Open-Medium', Helvetica, Arial, sans-serif; font-size:32px; mso-line-height-rule:exactly; line-height: 120%; color:#001C64; text-align: left;font-weight:500;">
+																													Geld senden mit pers&ouml;nlichem Touch.</p></td></tr><tr>
+																											<td align="left" class="c2up_copy" style="padding:20px 0px 0px 0px;" valign="middle">
+																												<p class="font16mobbody" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:28px; color:#001435; text-align: left;font-weight:400;">
+																													Verleihe deinen Zahlungen &uuml;ber die PayPal-App eine pers&ouml;nliche Note, indem du Animationen, Emojis oder Sticker hinzuf&uuml;gst.</p></td></tr><tr>
+																											<td align="left" class="c2up_cta" style="padding-top:20px;" valign="middle">
+																												<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																													
+																														<tr>
+																															<td align="left" class="font16mobile" style="font-family:'PayPal-Open-bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:1.5; color:#0070E0; padding:0px 0px 0px 0px;font-weight: bold;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af8f877858cb9444a840ad9d695bb284f038b5f2c81c02437873ac9c6a5156b59865bdb87b7b8b49918bd4f910e5f5e9266c316971d285b987" style="color:#0070E0;text-decoration:none;" target="_blank" title="Mehr erfahren">Mehr erfahren</a></td><td align="left" style="padding-left: 10px;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af59f18b28dba7a1f9f0fe5c5b16d626a6cb5d0e1ca3de54e92f5eabd99c63de6a18900e7650004484e01391e90d1cac61411f5bab5e10693c" title="Mehr erfahren"><img alt="&gt;" height="20" src="https://images.ctfassets.net/7rifqg28wcbd/4bhWkPVQy8nJuxthD8fVkd/bc4d9b47652848eb4ee6cf176f87138b/arrow.png" style="display: block; text-align: center; color: #0C0C0D; padding: 0px; height: 20px; width: 25px;" width="25"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="nopad" role="presentation" style="min-width: 100%; padding: 0px 0px 25px 0px;" width="100%">
+	
+		<tr>
+			<td>
+			</td></tr></table><!-- S.SSIC — Secondary Small Image Copy end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-bottom: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- S.SSIC — Secondary Small Image Copy start --><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_lr darkmode_bg_white" role="presentation" style="min-width: 100%; padding:25px 0px 0px 0px;" width="100%">
+ 
+  <tr>
+   <td>
+   </td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="pad2035_new1 nopad_top darkmode_bg_white" role="presentation" style="min-width: 100%; padding: 0px 55px 25px 55px" width="100%">
+	
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+					
+						<tr>
+							<td>
+								<table cellpadding="0" cellspacing="0" dir="rtl" role="presentation" style="width: 100%;">
+									
+										<tr>
+											<td class="responsive-td" dir="ltr" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" style="padding-left:10px;" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																					
+																						<tr>
+																							<td align="left" valign="top">
+																								<img alt="Rechnungen teilen." border="0" data-assetid="37459" height="340" src="https://image.emails.paypal.com/lib/fe3611727364047f721671/m/1/407867-de_DE-F90_Day_35_image_4-250-EM.png" style="display: block; text-align: center; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 12px; color: #0C0C0D; padding: 0px; height: 340px; width: 250px;" width="250"></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" dir="ltr" style="width: 50%;" valign="top">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+													
+														<tr>
+															<td>
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;">
+																	
+																		<tr>
+																			<td align="left" class="nopad" valign="top">
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width:250px;" width="250">
+																					
+																						<tr>
+																							<td align="left" class="centertext" valign="top">
+																								<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:250px;" width="250">
+																									
+																										<tr>
+																											<td align="left" class="c2up_headline" style="padding:0px 0px 0px 0px;" valign="middle">
+																												<p class="font18" style="margin: 0px; font-family: 'PayPal-Open-Medium', Helvetica, Arial, sans-serif; font-size:32px; mso-line-height-rule:exactly; line-height: 120%; color:#001C64; text-align: left; font-weight:500;">
+																													Rechnungen teilen.</p></td></tr><tr>
+																											<td align="left" class="c2up_copy" style="padding:20px 0px 0px 0px;" valign="middle">
+																												<p class="font16mobbody" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:28px; color:#001435; text-align: left;font-weight:400;">
+																													Mit PayPal kannst du Rechnungen ganz einfach mit Freund:innen und Verwandten teilen &ndash; direkt in deinem PayPal-Konto oder in teilnehmenden Onlineshops.</p></td></tr><tr>
+																											<td align="left" class="c2up_cta" style="padding-top:20px;" valign="middle">
+																												<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																													
+																														<tr>
+																															<td align="left" class="font16mobile" style="font-family:'PayPal-Open-bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:1.5; color:#0070E0; padding:0px 0px 0px 0px;font-weight: bold;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afa3379bf0874575138a8c93bba4864add6d9b69749f8b2890853ad3a813a3ab1eb09013d78d24babc1c506681e6091ae5462b275f35ef2add" style="color:#0070E0;text-decoration:none;" target="_blank" title="Mehr erfahren">Mehr erfahren</a></td><td align="left" style="padding-left: 10px;" valign="middle">
+																																<a   data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af0780820f8f0f0f0f52773a9c80a80192b6df82274d81c66eee8565672a40d59653e7f31e9d2623b2a1f7375b4fe755a757a9446d640dcd76" title="Mehr erfahren"><img alt="&gt;" height="20" src="https://images.ctfassets.net/7rifqg28wcbd/4bhWkPVQy8nJuxthD8fVkd/bc4d9b47652848eb4ee6cf176f87138b/arrow.png" style="display: block; text-align: center; color: #0C0C0D; padding: 0px; height: 20px; width: 25px;" width="25"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----></td></tr></table></td></tr><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-top: 0px;" valign="top"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="nopad" role="presentation" style="min-width: 100%; padding: 0px 0px 25px 0px;" width="100%">
+	
+		<tr>
+			<td>
+			</td></tr></table><!-- S.SSIC — Secondary Small Image Copy end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- b.headline — Left aligned Primary Headline Start--><table align="center" border="0" cellpadding="0" cellspacing="0" class="table darkmode_bg_white" data-blockname="b.headline" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="left" bgcolor="#ffffff" class="darkmode_bg_white" style="padding:0px 0px 0px 0px; background-color:#ffffff;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 100%;" width="100%">
+					
+						<tr>
+							<td align="left" class="block_headline_mobpad darkmode_bg_white" style="padding: 55px 55px 10px 55px;" valign="middle">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+									
+										<tr>
+											<td align="left" style="padding:0px 0px 0px 0px;" valign="middle">
+												<p class="block_headline_lheight" data-element="b.headline_heading_1" style="margin: 0px; font-family:'PayPal-Open-Medium', Helvetica, Arial, sans-serif; font-weight: 500; mso-line-height-rule:exactly; color:#121661; letter-spacing: -0.02em; line-height:120%;">
+													<span class="block_headline_font" style="font-size: 42px; line-height:120%;">Bezahle fast &uuml;berall auf der Welt mit PayPal.</span></p></td></tr></table></td></tr></table></td></tr></table><!-- b.headline — Left aligned Primary Headline End--></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- s.3up.copy — Secondary three up Module start--><table cellpadding="0" cellspacing="0" class="darkmode_bg_white" role="presentation" style="min-width: 100%; " width="100%">
+	
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" role="presentation" style=" min-width: 100%;" width="100%">
+					
+						<tr>
+							<td style="padding: 0px; ">
+								<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+									
+										<tr>
+											<td style="padding: 0px; ">
+												<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%;" width="100%">
+													
+														<tr>
+															<td style="padding: 0px; ">
+																<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+																	
+																		<tr>
+																			<td style="padding: 0px; ">
+																				<table align="center" cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+																					
+																						<tr>
+																							<td>
+																								<table cellpadding="0" cellspacing="0" role="presentation" style="min-width: 100%; " width="100%">
+																									
+																										<tr>
+																											<td class="nopad" style="padding:35px 0px 35px 0px">
+																												<table align="center" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+																													
+																														<tr>
+																															<td align="center" valign="middle">
+																																<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="width:530px; max-width:530px;" width="530">
+																																	
+																																		<tr>
+																																			<td class="responsive-td" style="padding-right: 0px;" valign="top">
+																																				<table cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+																																					
+																																						<tr>
+																																							<td>
+																																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="">
+																																									
+																																										<tr>
+																																											<td align="center" class="nopad" valign="middle">
+																																												<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="min-width:170px; max-width: 170px;" width="170">
+																																													
+																																														<tr>
+																																															<td align="center" valign="middle">
+																																																<table align="left" border="0" cellspacing="0" class="table" role="presentation" style="min-width:170px; max-width:170px;" width="170">
+																																																	
+																																																		<tr>
+																																																			<td align="center" class="pad2035" style="padding: 20px 20px 25px 0px;" valign="middle">
+																																																				<table align="center" border="0" cellpadding="0" cellspacing="0" class="padbot20border" role="presentation" width="100%">
+																																																					
+																																																						<tr>
+																																																							<td align="left" style="padding:20px 0px 0px 0px;" valign="middle">
+																																																								<p class="font18" style="margin: 0px; font-family:'PayPal-Open-Bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:26px; color: #121661; font-weight: 700;">
+																																																									429 Millionen</p></td></tr><tr>
+																																																							<td align="left" style="padding: 12px 0px 0px 0px;" valign="middle">
+																																																								<p class="font16" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:16px; mso-line-height-rule:exactly; line-height:1.5; color:#001435; font-weight: 400;">
+																																																									aktive Konten.</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="padding-right: 0px;" valign="top">
+																																				<table cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+																																					
+																																						<tr>
+																																							<td>
+																																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="">
+																																									
+																																										<tr>
+																																											<td align="center" class="nopad" valign="middle">
+																																												<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="min-width:190px; max-width: 190px;" width="190">
+																																													
+																																														<tr>
+																																															<td align="center" valign="middle">
+																																																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="min-width:190px; max-width:190px;" width="190">
+																																																	
+																																																		<tr>
+																																																			<td align="center" class="pad2035follow" style="padding: 20px 20px 25px 20px;" valign="middle">
+																																																				<table align="center" border="0" cellpadding="0" cellspacing="0" class="padbot20border" role="presentation" width="100%">
+																																																					
+																																																						<tr>
+																																																							<td align="left" style="padding:20px 0px 0px 0px;" valign="middle">
+																																																								<p class="font18" style="margin: 0px; font-family:'PayPal-Open-Bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:26px; color:#121661; font-weight: 700;">
+																																																									200+</p></td></tr><tr>
+																																																							<td align="left" style="padding: 12px 0px 0px 0px;" valign="middle">
+																																																								<p class="font16" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:16px; mso-line-height-rule:exactly; line-height:1.5; color:#001435; font-weight: 400;">
+																																																									M&auml;rkte, in die du Geld senden kannst.&sup2;</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="padding-right: 0px;" valign="top">
+																																				<table cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+																																					
+																																						<tr>
+																																							<td>
+																																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="">
+																																									
+																																										<tr>
+																																											<td align="center" class="nopad" valign="middle">
+																																												<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="min-width:170px; max-width: 170px;" width="170">
+																																													
+																																														<tr>
+																																															<td align="center" valign="middle">
+																																																<table align="left" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="min-width:170px; max-width:170px;" width="170">
+																																																	
+																																																		<tr>
+																																																			<td align="center" class="pad2035follow" style="padding: 20px 0px 25px 20px;" valign="middle">
+																																																				<table align="center" border="0" cellpadding="0" cellspacing="0" class="padbot20" role="presentation" width="100%">
+																																																					
+																																																						<tr>
+																																																							<td align="left" style="padding:20px 0px 0px 0px;" valign="middle">
+																																																								<p class="font18" style="margin: 0px; font-family:'PayPal-Open-Bold', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:26px; color:#121661; font-weight: 700;">
+																																																									25+</p></td></tr><tr>
+																																																							<td align="left" style="padding: 12px 0px 0px 0px;" valign="middle">
+																																																								<p class="font16" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:16px; mso-line-height-rule:exactly; line-height:1.5; color:#001435; font-weight: 400;">
+																																																									unterst&uuml;tzte W&auml;hrungen.</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!-- s.3up.copy — Secondary three up Module end--></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-bottom: 0px;"><!----><!-- P.H.1 - Primary / Hero White Background Color start --><!----></td></tr></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-top: 0px;"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" bgcolor="#FFFFFF" class="padnew2 darkmode_bg_white" style="padding: 0px 55px 0px 55px; background-color: #FFFFFF;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+					
+						<tr>
+							<td align="left" class="pad24top" style="padding:24px 0px 0px 0px;" valign="middle">
+								<p class="font10" style="margin: 0px; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.5; color: rgb(0, 20, 53);">
+									&sup2; Es gelten Geb&uuml;hren und Einschr&auml;nkungen. Neben Transaktionsgeb&uuml;hren fallen bei Xoom auch Wechselkursgeb&uuml;hren an. Kein PayPal- oder Xoom-Konto erforderlich.</p></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="center" bgcolor="#FFFFFF" class="padbot20 darkmode_bg_white" style="padding: 0px 55px 40px 55px; background-color: #FFFFFF;" valign="middle">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+     
+      <tr>
+       <td>
+       </td></tr></table></td></tr></table><!-- P.H.1 - Primary / Hero White Background Color end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- T.25px — 25px Spacer Start --><table align="center" border="0" cellpadding="0" cellspacing="0" class="table darkmode_bg_white" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" style="padding:0px 0px 0px 0px;" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 640px;" width="100%">
+					
+						<tr>
+							<td align="center" valign="middle">
+								<img alt="" border="0" height="25" src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" style="display:block;" width="25"></td></tr></table></td></tr></table><!-- T.25px — 25px Spacer end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- arc - White BG, blue arc start --><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width: 320px;" width="100%">
+	
+		<tr>
+			<td align="center" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+					
+						<tr>
+							<td align="center" valign="middle">
+								<a href="#" style="pointer-events: none; cursor: default !important;"><img alt="" border="0" class="block_crop img" data-assetid="12865" src="https://image.emails.paypal.com/lib/fe3311727364047f721674/m/1/arc_blue-bg_white-arc.jpg" style="display: block; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 18px; color: #001435; padding: 0px; text-align: center; height: auto; width: 100%;" width="640"> </a></td></tr></table></td></tr></table><!-- arc - White BG, blue arc end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #003087; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- T.50px — 50px Spacer Start --><table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" style="padding:0px 0px 0px 0px;" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 640px;" width="100%">
+					
+						<tr>
+							<td align="center" valign="middle">
+								<img alt="" border="0" height="50" src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" style="display:block;" width="50"></td></tr></table></td></tr></table><!-- T.50px — 50px Spacer end --></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #003087; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-bottom: 0px;"><!----><!-- P.H.1 - Primary / Hero Blue Background start --><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" class="padnew2" style="padding: 0px 55px 0px 55px;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+					
+						<tr>
+							<td align="left" style="padding-bottom:24px;" valign="middle">
+								<p class="font32" style="margin: 0px; font-family: PayPal-Open-Medium, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 42px; line-height: 1.2; color: rgb(255, 255, 255);">
+									Passwort vergessen?</p></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="left" class="padnew2" style="padding: 0px 55px 0px 55px;" valign="middle">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+					
+						<tr>
+							<td align="left" valign="middle">
+								<p class="font16" style="margin: 0px; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 20px; line-height: 1.5; color: rgb(255, 255, 255);">
+									Kein Problem. Wir helfen dir, es zur&uuml;ckzusetzen.</p></td></tr></table></td></tr></table></td></tr></table><!----></td></tr></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-top: 0px;"><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="left" class="padnew2" style="padding: 0px 55px 0px 55px;" valign="middle">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+     
+      <tr>
+       <td align="left" class="padtop24" style="padding: 34px 0 0 0;">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align: top;" width="100%">
+         
+          <tr>
+           <td align="left" class="font16" style="font-family: Helvetica,Tahoma,sans-serif; font-size: 18px; line-height:60px; mso-line-height-rule:exactly;  color:#003087;">
+            <div class="font16" style="text-align:left; line-height:60px; mso-line-height-rule:exactly;">
+             <!--[if mso]> <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.paypal.com/authflow/email-recovery/?contextId=&redirectUri=%252Fsignin%253Fcountry.x%253DDE%2526locale.x%253Dde_DE&utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_TR_MC_NI_NI_202404_407867_Day_35_P2P&sfmc_id=Z6Z7TXZEVJWT4&utm_content=reset_Password_CTA_link" fillcolor="#FFFFFF" stroke="f" style="width:187.5pt; height:37.5pt; v-text-anchor:middle;" arcsize="50%"> <w:anchorlock/> <center> <![endif]--><a  class="font16 darkmode_CTA"  data-linkto="https://" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af526a06b4ee4fd6c6f2040bc221e40b1c48a5bf4bc237b0b30eae185b853e6c71df306e410672ce4a8aa011d8676516c0f84b525b85c856d7" style="color:#142C8E;text-decoration:none;display: inline-block; width: 250px; font-family: PayPal-Open, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 50px; text-align: center; background-color: rgb(255, 255, 255); border-radius: 50px; text-size-adjust: none;" target="_blank" title="Passwort zurücksetzen">Passwort zur&uuml;cksetzen</a> <!--[if mso]> </center> </v:roundrect> <![endif]--></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="left" class="padbot20" style="padding: 0px 55px 40px 55px;" valign="middle">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="table-sm" role="presentation" style="min-width:280px; max-width: 530px;" width="530">
+     
+      <tr>
+       <td>
+       </td></tr></table></td></tr></table><!-- P.H.1 - Primary / Hero Blue Background end --></td></tr></table><!----></td></tr></table></td></tr></table></td></tr></table><!----><!----><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #003087; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><!-- T.50px — 50px Spacer Start --><table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="" width="100%">
+	
+		<tr>
+			<td align="center" style="padding:0px 0px 0px 0px;" valign="middle">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 640px;" width="100%">
+					
+						<tr>
+							<td align="center" valign="middle">
+								<img alt="" border="0" height="50" src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" style="display:block;" width="50"></td></tr></table></td></tr></table><!-- T.50px — 50px Spacer end --></td></tr></table><!----><!----><span style="color: black;">
+
+
+</span><!----><!----><span style="color: black;">
+
+
+</span>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-bottom: 0px;" valign="top"><span style="color:black;">
+  
+</span>
+</td></tr></table></td></tr><tr><td><table role="presentation" style="width: 100%;" cellspacing="0" cellpadding="0"><tr><td class="responsive-td" style="width: 100%; padding-top: 0px;" valign="top"><!--[if mso]>
+<style>
+.th_mso
+{
+word-break: break-all !important;
+line-height: 150% !important;
+}
+</style>
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+  <tr>
+    <td align="center" bgcolor="#ffffff" class="darkmode_bg_white" style="padding:0px 0px 0px 0px; background-color:#ffffff;" valign="middle">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="table" role="presentation" style="max-width: 620px; background-color: inherit;" width="640">
+        <tr>
+          <td align="center" class="pad2035" style="padding: 53px 50px 25px 50px;" valign="middle">
+            <div style="display:none !important;">
+              <!-- <tr> <td align="center" height="30" style="line-height: 30px; font-size:0px;" valign="top"> &nbsp; </td> </tr> <tr> <td align="left" style="padding-bottom:10px;" valign="middle"> <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="107"> <tr>  <td align="left" valign="middle" width="42">  <a alias="de_DE_Facebook_Link" href="https://de-de.facebook.com/PayPalDeutschland" target="_blank" title="Facebook"><img alt="Facebook" border="0" height="26" src="https://image.emails.paypal.com/lib/fe3311727364047f721674/m/1/Play_Store.png" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;" width="26"></a> </td>   <td align="left" valign="middle" width="42">  <a alias="de_DE_Instagram_Link" href="https://www.instagram.com/paypalde/" target="_blank" title="Instagram"><img alt="Instagram" border="0" height="26" src="https://image.emails.paypal.com/lib/fe3311727364047f721674/m/1/App_Store.png" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;" width="26"></a> </td>   </tr> </table> </td> </tr> -->
+            </div>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+              <tr>
+                <td align="left" class="font_12" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:14px; mso-line-height-rule:exactly; line-height:150%; color:#0070E0; word-break: keep-all;" valign="middle">
+                  
+                  <a  class="display-block" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af94b9eaa19d6a1ceeb7424adddc1c30b5c2a3e5d0eb3c9aaf600d4be424465acaf4742477755957d8df60cb12998bd68f41d76712e0999f76" style="text-decoration: none; color:#0070E0; white-space:nowrap; font-weight: bold;" target="_blank" title="Hilfe">Hilfe</a> 
+                   
+                   
+                  <span class="mob-hide divider" style="color:#929496;">&emsp;|&emsp;</span> 
+                  <a  class="display-block" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afad8884750c8a6b0d6342397bcec57ca5a79a40ebd9d1e32fee5ddd2e4a1624a2fbe738e2e813ff27301fcd0e7cb47dbd629f8e5c45ce84c7" style="text-decoration: none; color:#0070E0; white-space:nowrap; font-weight: bold;" target="_blank" title="Kontakt">Kontakt</a> 
+                   
+                   
+                  <span class="mob-hide divider" style="color:#929496;">&emsp;|&emsp;</span> 
+                   
+                  <a  class="display-block" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af9e6cd6234ae6869c18a1f850eb4cb1795d697948561243417e46015a9af47938c5d0b75e68f577f73e29de40fa27b38819b28f8126ef5935" style="text-decoration: none; color:#0070E0; white-space:nowrap; font-weight: bold;" target="_blank" title="Sicherheit">Sicherheit</a> 
+                   
+                   
+                  <span class="mob-hide divider" style="color:#929496;">&emsp;|&emsp;</span> 
+                   
+                  <a  class="display-block" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af4ce12d6f7f7e1ab2e3980f3e39a9c3cac0858bca39068c20bdece5da8fb81ff56d0b5ab54be37e4d5fa6d8f4fad01aca46bc2179dea3337c" style="text-decoration: none; color:#0070E0; white-space:nowrap; font-weight: bold;" target="_blank" title="App">App</a> 
+                  
+                   
+                   
+                  <span class="mob-hide divider" style="color:#929496;">&emsp;|&emsp;</span> 
+                   
+                  <a  class="display-block" href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af7c4aa63faa52c1c0eb96c2cf1e6470464226038caf6fcee324f9d848770d8985d1b59b10699fa261a77a96cd931762c01a6f84fce9960cbb" style="text-decoration: none; color:#0070E0; white-space:nowrap; font-weight: bold;" target="_blank" title="Angebote">Angebote</a> 
+                   
+                   
+                   
+                   
+                  
+                </td>
+              </tr>
+              
+              
+              <tr>
+                <td align="center" height="30" style="line-height: 30px; font-size:0px;" valign="top">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td align="left" style="padding-bottom:10px;" valign="middle">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="92">
+                    <tr>
+                      
+                      <td align="left" valign="middle" width="42">
+                        
+                        <a  href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af71bba64d2c76b014072b5be4543908038627887c8b925c792d37bf2840ea48aaf8f0809eb139cdabf0f664d873f411b8269f51bddda2876f" target="_blank" title="Facebook"><img alt="Facebook" border="0" height="26" src="https://image.emails.paypal.com/lib/fe3311727364047f721674/m/1/facebook_icn.png" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;" width="26"></a>
+                      </td>
+                      
+                      
+                      <td align="left" valign="middle" width="42">
+                        
+                        <a  href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af108e087bba310fdd3a3bc75cfb85edad809c63094ef926279def3c04839a45f269fdf9841b79f3979c5e7db6258dcaf40c80e3e1a29d6d72" target="_blank" title="Instagram"><img alt="Instagram" border="0" height="26" src="https://image.emails.paypal.com/lib/fe3311727364047f721674/m/1/instagram_icn.png" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;" width="26"></a>
+                      </td>
+                      
+                      
+                      
+                      
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              
+              
+              <tr>
+                <td align="left" style="padding:20px 0px 0px 0px;" valign="middle">
+                  <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;">
+                    ¹ Zum Senden und Empfangen von Geld ist ein PayPal-Konto erforderlich. Bei Währungsumrechnung oder beim Senden von Geld in anderen Währungen als dem Euro an ein Konto im Ausland fallen Gebühren an. Zur Gebührenübersicht. Um Geld an Freund:innen zu senden ist ein PayPal-Konto erforderlich. Empfänger:innen müssen ein PayPal-Konto eröffnen, falls sie noch keines haben.</div>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" data-block="editable" data-name="Footer Copy 2" data-type="richtext" style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;padding:20px 0px 0px 0px;" valign="middle">
+                   
+                   
+                  Du bist dir nicht sicher, warum du diese E-Mail erhalten hast? <a href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2af6c08bea7b58ae8c3bee1be8b231429b2adbd5a2a82d39f7e185df693d0aa88444ca5869a1aef788155749ef84acf4b1fa075bce661d5ab40"  title="Mehr erfahren" style="color: #0070e0;text-decoration:none; font-weight: bold;">Mehr erfahren</a><br><br>Sicherheitshinweis: Du erkennst Phishing-E-Mails oftmals schon an der Anrede; PayPal wird dich immer mit deinem Vor- und Nachnamen anschreiben. Mehr zu Phishing findest du unter <a href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afcc8aee64cfdf5d1b403c64fae31fa7f797f501631c760f578171559f14acfc804aa6ccc058016c25c71d6ff598b68c34a3856858c3c28003"  title="www.paypal.de/phishing" style="color: #0070e0;text-decoration:none; font-weight: bold;">www.paypal.de/phishing</a>.
+                   
+                  
+                  <br>
+                  <br>
+                   
+                  
+
+
+
+
+
+ Wir haben diese E-Mail an thomasbauer25@t-online.de gesendet, weil du in deinen Einstellungen für PayPal-Marketing „Neues von PayPal“ ausgewählt hast. Du kannst deine Einstellungen <a href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afcfe2469d755dec8feecd922c551a9259c4400ec34055671214b5276f38f61f6abc8f616fe4110ca68ac14a324f7e23bfe98307f4de4f27f0"  title="hier" style="color: #0070e0;text-decoration:none; font-weight: bold;">hier</a> ändern.
+                   
+                   
+                   
+                   
+                  <br>
+                  <br>
+                   
+                   
+                  <!-- YT Specific Condition Start --> 
+                   
+                  <!-- YT Specific Condition End -->Der Schutz Ihrer Daten liegt PayPal am Herzen. Mehr erfahren Sie in unserer <a href="https://click.emails.paypal.com/u/?qs=7528d6f2b015b2afbea50981123750ca4e04b333d85656bf52f152888f10362453c7268c15f0fe0bc926dafbeafef24bbb0ec2a97ee652c0ba0e52dc3e24c4f9"  title="Datenschutzrichtlinie" style="color: #0070e0;text-decoration:none; font-weight: bold;">Datenschutzrichtlinie</a>.<br><br>Copyright © 1999-2024 PayPal. Alle Rechte vorbehalten. PayPal (Europe) S.à r.l. et Cie, S.C.A., Société en Commandite par Actions. Eingetragener Firmensitz: 22-24 Boulevard Royal, L-2449 Luxembourg RCS Luxembourg B 118 349.
+                   
+                   
+                   
+                   
+                  
+                </td>
+              </tr>
+              <tr>
+                <td align="left" style="padding:20px 0px 0px 0px;" valign="middle">
+                  <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;">
+                    407867 19129</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td></tr></table></td></tr></table></td></tr></table>
+<!-- Creative details:OW_EM_TR_MC_NI_NI_202404_407867_Day_35_P2P de_DE --><!---->
+                  
+                </td>
+              </tr>
+              <!--Insert Modules Here-->
+              <tr>
+                <td class="mob-hide">
+                  <table                          cellpadding="0"                          cellspacing="0"                          border="0"                          align="center"                          width="640"                          role="presentation"                          >
+                    <tr>
+                      <td style="line-height:2px; height:2px; min-width: 640px;">
+                        <img src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" height="2" width="640" style="max-height:2px; min-height:2px; display:block; width:640px; min-width:640px;"/>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
